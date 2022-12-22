@@ -1,0 +1,64 @@
+#color1{
+    border: 3px red solid;
+    background-color: rgb(235, 223, 208);
+    margin: 20px 30px;
+}
+#color2{
+    border: 3px red solid;
+    background-color:rgb(214, 170, 214);
+    margin: 20px 30px;
+}
+#color3{
+    border: 3px red solid;
+    background-color: rgb(161, 179, 239);
+    margin: 20px 30px;
+  
+}
+#name_blog{
+    padding-left: 50%;
+   
+}
+body{
+    background-color: rgb(157, 245, 215);
+}
+#color_1{
+    color: brown;
+    font-size: 20px;
+}
+.color_name{
+    color: cadetblue;
+}
+#color_font{
+    color: brown;
+    font-size: 20px;
+}
+#moto{
+    width: 450px;
+    height: 380px;
+    margin: 10px;
+}
+#avto{
+    width: 450px;
+    height:380px ;
+    margin: 10px;
+}
+#block1{
+    border: 4px blue solid;
+    background-color: antiquewhite;
+    margin: 20px 30px;
+}
+#facebook{
+    padding-left: 650px;
+    width: 40px;
+    height: 30px;
+}
+#instagram{
+    padding-left: 50px;
+    width: 30px;
+    height: 30px;
+}
+#linkedin{
+    padding-left: 50px;
+    width: 30px;
+    height: 30px;
+}
